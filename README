@@ -212,8 +212,8 @@
                     <h2 class="download-title" data-i18n="download.title">Ready to Create Magic?</h2>
                     <p class="download-subtitle" data-i18n="download.subtitle">Download ImagineStories today and give your children the gift of personalized storytelling</p>
                     <div class="download-buttons">
-                        <a href="https://apps.apple.com/app/imaginestories" class="store-button apple">
-                            <span class="store-icon">🍎</span>
+                        <a href="https://apps.apple.com/fr/app/imaginestories/id6757656909" class="store-button apple">
+                            <span class="store-icon">🍏</span>
                             <div class="store-text">
                                 <span class="store-label" data-i18n="download.availableOn">Available on the</span>
                                 <span class="store-name">App Store</span>
